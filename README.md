@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lyem-one
-if you're looking my profile, i think it's because you have nothing to do, or you are one of my friend.
+- if you're looking my profile, i think it's because you have nothing to do, or you are one of my friend.
 i have nothing to say, i have only 1 private project (for now) so come back later!
 <!---
 lyem-one/lyem-one is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
