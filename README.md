@@ -4,5 +4,4 @@ i have nothing to say, i have only 1 private project (for now) so come back late
 <!---
 lyem-one/lyem-one is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-- fact : lyem was already took
 --->
